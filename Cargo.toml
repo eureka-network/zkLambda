@@ -2,7 +2,9 @@
 
 members = [
     "bin/server",
-    "dag",
     "circuit-tree-generation",
+    "dag",
+    "intent",
+    "segment",
 ]
     
